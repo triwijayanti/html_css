@@ -1,0 +1,20 @@
+.atas{
+    background-color: gray;
+    height: 80px;
+    text-align: center;
+    font-size: x-large;
+   
+}
+.tengah{
+    background-color: black;
+    height: 100px;
+    width: 150;
+    text-align: center;
+    color: beige;
+}
+.bawah{
+    background-color: grey;
+    height: 100px;
+    text-align: center;
+    font-size:small
+}
